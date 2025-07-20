@@ -1,7 +1,7 @@
 import LoginPage from '../pages/LoginPagefor_US1';
 import BotCreationPage from '../pages/BotCreationPagefor_US1';
 import MessageBoxPage from '../pages/MessageBoxPagefor_US1';
-import LearningInstance from '../pages/LearningInstance_US2';
+import LearningInstance from '../pages/LearningInstancefor_US2';
 
 const loginPage = new LoginPage();//obj login page
 const botPage = new BotCreationPage();//obj bot page
