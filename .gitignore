@@ -1,0 +1,4 @@
+node_modules
+cyprres/videos/cypress/screenshots
+.env
+mochawesome-report/
